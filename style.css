@@ -1,0 +1,14 @@
+body {
+    background-color:brown
+}
+
+h1 {
+    color:gainsboro;
+    font-family: monospace;
+}
+
+p {
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
